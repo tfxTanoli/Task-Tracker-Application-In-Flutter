@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825120093763",
+    "project_id": "labfinal-fa21-bcs-130",
+    "storage_bucket": "labfinal-fa21-bcs-130.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825120093763:android:74a812a8f263b4391886f6",
+        "android_client_info": {
+          "package_name": "com.tasttracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19db6CizuK2drDqu6qEDYfXGMYHsneko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
