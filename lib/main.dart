@@ -400,7 +400,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Text(
               'Welcome ${widget.email} to Task Tracker',
               style: const TextStyle(
-                fontSize: 30,
+                fontSize: 12,
                 fontWeight: FontWeight.bold,
                 color: Colors.white,
               ),
